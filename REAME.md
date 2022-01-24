@@ -1,1 +1,1 @@
-# Este é um conpilado de varios projetos
+# programa para tirar a média de um aluno em python.
